@@ -3,18 +3,14 @@ layout: about
 ---
 
 # About Me
-I am student at konyang University, south Korea
+I am student at 건양 University, south Korea
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* 2014 대청초등학교
+* 2020 대청중학교
+* 2023 기장고등학교
 
 <br/>
 
