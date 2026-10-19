@@ -11,6 +11,7 @@ I am student at 건양 University, south Korea
 * 2014 대청초등학교
 * 2020 대청중학교
 * 2023 기장고등학교
+* 2026 건양대학교
 
 <br/>
 
